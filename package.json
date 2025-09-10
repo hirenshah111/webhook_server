@@ -1,0 +1,14 @@
+{
+  "name": "webhook-server",
+  "version": "9.0.9",
+  "description": "P0C",
+  "main": "app.js",
+  "scripts": {
+    "preinstall": "node app.js"
+  },
+  "author": "nvk",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
+}
